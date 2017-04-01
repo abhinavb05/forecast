@@ -15,7 +15,7 @@ r_github_packages:
 
 env:
  global:
-   - CRAN: http://cran.rstudio.com
+  - CRAN: http://cran.rstudio.com
   - secure: "lCaD5Jt3gIi9+mkBb1TtKQLOQ0sN2tw9N/lrdr7zk/W4OO97oTlSrpI+PeQh1PE7svUW8LqZHyemR7TgpY1fb7R2KumAyW67BO2DHMw0Sa+xA8lQIp5iqyYkFxCu+KT7dGd/N+bqy5NeQ5JvWPXE5VarkGmiYeNNJ+cM26A9C4ynnzXO3KLx9GUM7J6AQH7ztufcYAU+BRGu2GY50Onqx88RhiDheZXKA7V4l0hZ/Bi5zqfxV2An41EhONCQEIVGMawj7Ti9W6b9GSw/rzbmXuHWREIr60KGxl0id3KVyYH13/6NOpBmhOhOq2yOLgnQ6phy40y3GTcl47dC03POk4xKcpxNdQtsR3FgQVF+Xd3RRms4KxbSvXSmSmppjehQwJ/U9X8fAbiEngzUcPecbsPtfwzIu/4o6s71OpDvdA/zy9gbshHbTR1UOhh+FAYXUi+d3dIoiBsAe+QNvhxtyqD9ebXuej6MdB+1Qol4KPftQH2/goVrTaNCVFLSryexz27spBwnBtx7xysDUJPVunwQDK7KrEM0kb0wcs3dq/FbWHmpBjQm1RvHRrvLy8QcRyCDb+me1jMbpWN0NPeMzGcZkRwae5m0qt4OgUUlN08dXSbbkMMfS8vPXHshFBN3q0OQsf8Fj+VAq6Zid7sIm8gU1ROjslgB0IeGkeRvnMk="
   - USER_EMAIL="abhinavbansal05.12.98@gmail.com"
   - USER_NAME="abhinavb05"
